@@ -1,7 +1,7 @@
 My Name Is Parham Kakaee 
 
 #######################
-
+<hr>
 JavaScript/Web Developer && GNU/Linux - Unix Like OS Lover 
 
 -> Socials <br><br>
