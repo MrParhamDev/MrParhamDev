@@ -1,10 +1,9 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h1 align="center">Hi 👋, I'm Parham Kakaee</h1>
+<h1 align="center">Hi 👋, I'm Empty !</h1>
 
 
-<h3>A passionate web developer from Iran</h3>
-<h3>JavaScript/Web Developer && GNU/Linux - Unix Like OS Lover</h3>
+<h3>Developer && GNU/Linux - Unix Like OS Lover</h3>
 
 <hr>
 
